@@ -1,0 +1,24 @@
+// Place all the styles related to the staticpages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.boxy {
+	 margin-top: 20px;
+	  background-color:rgba(36, 32, 33, 0.498039);
+	  box-shadow:rgba(36, 32, 33, 0.498039) 2px -2px 2px 2px;
+	  padding:1%;
+	  color:#FF9933;
+}
+
+.custom-font {
+	font-family: Helvetica Neue Light,Helvetica Neue,Helvetica,san-serif;
+}
+
+body {
+	background:url(http://wallpapershared.com/wp-content/uploads/2013/04/Boston-Skyline.jpg);
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+}
